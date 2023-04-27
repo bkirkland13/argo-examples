@@ -3,7 +3,7 @@ appName: myhelmapp
 port: 80
 
 configmap:
-  name: myhelmapp-configmap-v5
+  name: myhelmapp-configmap-v6
   data:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
