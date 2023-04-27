@@ -3,4 +3,4 @@ replicas: 5
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is a new header!'
+    CUSTOM_HEADER: 'This is another new header!'
